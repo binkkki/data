@@ -1,34 +1,84 @@
-Country, Age, Budget, Travel Type
-Spain, 22, 1000, Cultural
-Italy, 25, 1200, Leisure
-Japan, 30, 1500, Adventure
-Maldives, 35, 3000, Leisure
-France, 40, 2000, Cultural
-Brazil, 22, 900, Adventure
-Australia, 28, 2500, Leisure
-Egypt, 33, 800, Cultural
-Greece, 27, 1100, Adventure
-USA, 45, 2800, Leisure
-Turkey, 60, 1500, Leisure
-Netherlands, 29, 1300, Cultural
-India, 38, 700, Adventure
-Sweden, 50, 2200, Cultural
-Canada, 23, 1300, Adventure
-Portugal, 31, 1600, Leisure
-Mexico, 36, 900, Cultural
-Argentina, 55, 1800, Adventure
-South Korea, 25, 1400, Cultural
-Finland, 42, 1700, Leisure
-Namibia, 53, 2000, Adventure
-UAE, 30, 2200, Leisure
-Thailand, 48, 1100, Cultural
-Czech Republic, 26, 1000, Adventure
-Norway, 62, 3000, Leisure
-Australia, 34, 1800, Adventure
-Iceland, 44, 2500, Cultural
-China, 58, 1400, Adventure
-Vietnam, 36, 900, Leisure
-Slovakia, 24, 750, Cultural
-Israel, 41, 1600, Adventure
-Maldives, 29, 3400, Leisure
-Georgia, 39, 1300, Cultural
+Country,Age,Budget,Travel Type,Gender,Travel Duration (days)
+Spain,22,1000,Cultural,Male,7
+Italy,25,1200,Leisure,Female,10
+Japan,30,1500,Adventure,Male,14
+Maldives,35,3000,Leisure,Female,10
+France,40,2000,Cultural,Female,5
+Brazil,22,900,Adventure,Male,12
+Australia,28,2500,Leisure,Male,15
+Egypt,33,800,Cultural,Female,8
+Greece,27,1100,Adventure,Male,6
+USA,45,2800,Leisure,Female,14
+Turkey,60,1500,Leisure,Male,10
+Netherlands,29,1300,Cultural,Female,9
+India,38,700,Adventure,Male,10
+Sweden,50,2200,Cultural,Female,5
+Canada,23,1300,Adventure,Male,11
+Portugal,31,1600,Leisure,Female,7
+Mexico,36,900,Cultural,Male,8
+Argentina,55,1800,Adventure,Female,12
+South Korea,25,1400,Cultural,Male,5
+Finland,42,1700,Leisure,Female,10
+Namibia,53,2000,Adventure,Male,14
+UAE,30,2200,Leisure,Female,13
+Thailand,48,1100,Cultural,Male,6
+Czech Republic,26,1000,Adventure,Female,4
+Norway,62,3000,Leisure,Male,9
+Iceland,44,2500,Cultural,Female,11
+China,58,1400,Adventure,Male,10
+Vietnam,36,900,Leisure,Female,12
+Slovakia,24,750,Cultural,Male,7
+Israel,41,1600,Adventure,Female,8
+Maldives,29,3400,Leisure,Male,10
+Georgia,39,1300,Cultural,Female,5
+Argentina,26,2000,Adventure,Male,7
+Costa Rica,35,1800,Leisure,Female,14
+Hungary,45,1300,Cultural,Male,8
+Kenya,27,900,Adventure,Female,10
+Ireland,32,1500,Leisure,Male,6
+Singapore,29,2800,Cultural,Female,12
+Russia,54,1400,Adventure,Male,5
+Austria,35,1900,Leisure,Female,10
+Belgium,48,2500,Cultural,Male,11
+New Zealand,36,1000,Adventure,Female,12
+Philippines,28,1100,Leisure,Male,7
+Switzerland,39,2700,Cultural,Female,10
+Denmark,44,1500,Adventure,Male,8
+Norway,47,2200,Leisure,Female,14
+Venezuela,31,900,Cultural,Male,7
+Croatia,29,1300,Adventure,Female,6
+Malta,26,800,Leisure,Male,5
+Philippines,22,1200,Cultural,Female,10
+Ecuador,38,2400,Adventure,Male,11
+Slovakia,48,900,Cultural,Female,9
+Jamaica,35,1300,Leisure,Male,10
+Cuba,27,1600,Adventure,Female,12
+Morocco,33,1100,Cultural,Male,6
+Cyprus,40,1400,Leisure,Female,8
+Turkey,60,2300,Adventure,Male,14
+Belarus,31,1700,Cultural,Female,10
+Egypt,24,750,Leisure,Male,7
+Zambia,39,1600,Adventure,Female,12
+Chile,53,1800,Cultural,Male,9
+Uruguay,45,2200,Leisure,Female,14
+Bolivia,32,900,Adventure,Male,10
+Finland,26,1100,Cultural,Female,7
+Iceland,29,1400,Leisure,Male,5
+Sweden,47,2000,Adventure,Female,10
+Thailand,34,2500,Cultural,Male,12
+Japan,37,1500,Leisure,Female,14
+Australia,40,2200,Adventure,Male,11
+Italy,29,1300,Cultural,Female,9
+Norway,50,2400,Leisure,Male,6
+Czech Republic,34,1000,Adventure,Female,8
+Costa Rica,25,1400,Cultural,Male,10
+Malaysia,40,1900,Leisure,Female,12
+Spain,45,1700,Adventure,Male,14
+Greece,35,2200,Cultural,Female,8
+South Africa,28,1600,Leisure,Male,10
+Honduras,31,900,Adventure,Female,6
+Bulgaria,22,800,Cultural,Male,7
+Latvia,39,1500,Leisure,Female,12
+Seychelles,27,3000,Adventure,Male,15
+Jordan,54,1100,Cultural,Female,10
+Lebanon,29,1300,Leisure,Male,8
